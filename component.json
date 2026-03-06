@@ -1,0 +1,18 @@
+
+{
+  "name": "elucene",
+  "repo": "drylikov/elucene",
+  "version": "0.2.0",
+  "description": "extended lucene query syntax with sorting, field selection, limits etc",
+  "keywords": [
+    "lucene",
+    "query",
+    "syntax",
+    "elastic",
+    "search",
+    "es",
+    "elasticsearch"
+  ],
+  "license": "mit",
+  "scripts": ["index.js"]
+}
